@@ -1,0 +1,25 @@
+{
+  "name": "strapi-middleware-i18n-relations",
+  "version": "1.0.0",
+  "description": "Strapi middleware that performs subsequent entity updates to cross populate relations between configured data types in Strapi's official I18N plugin.",
+  "strapi": {
+    "name": "strapi-middleware-i18n-relations",
+    "displayName": "Strapi I18N relation-mapping middleware",
+    "description": "Make your Strapi content SEO friendly.",
+    "kind": "plugin"
+  },
+  "peerDependencies": {
+    "@strapi/strapi": "^4.0.0",
+    "@strapi/plugin-i18n": "^4.0.0"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Lindon",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardlindon/strapi-middleware-i18n-relations"
+  }
+}
