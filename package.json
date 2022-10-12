@@ -20,6 +20,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/richardlindon/strapi-middleware-i18n-relations"
+    "url": "https://github.com/unioslight/strapi-middleware-i18n-relations"
   }
 }
